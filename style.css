@@ -185,3 +185,38 @@ justify-content: space-around;
     text-align: center;
 }
 /*end of about page style */
+
+/* Contact form styling */
+​
+h2 {
+  color: black;
+  padding: 20px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px
+}
+​
+p {
+  text-align: center;
+}
+​
+.envelope {
+text-align: center;
+margin-bottom: 10px
+}
+​
+.form {
+display: flex;
+justify-content: center;
+flex-direction: column;
+text-align: center;
+margin-bottom: 10px
+}
+​
+.footer-about {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
